@@ -1,0 +1,1 @@
+Here are the scripts used to run fineRADstructure. The folder "FinestructureRcode" was downloaded directly from the software development page (https://people.maths.bris.ac.uk/~madjl/finestructure/finestructureR.html). 
